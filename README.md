@@ -25,4 +25,4 @@ Este projeto é um clone do site Twitter(pré-X) onde podemos fazer nosso cadast
 
 ## Preview
 
-<img src="images/DashBoard - index.png" alt="Captura de tela do projeto">
+<img src="public/img/twitterClone-index.png" alt="Captura de tela do projeto">
