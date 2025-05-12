@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Projeto Twitter Clone</h1> 
-  <img width="120px" height="120px" src="images/DashPro.png">
+  <img width="120px" height="120px" src="public/img/twitter_logo.png">
   <p>Projeto desenvolvido com o curso "Desenvolvimento Web completo" da Udemy, aprimoraro habilidades em desenvolvimento full-stack</p>
 </div>
 
